@@ -1,6 +1,6 @@
 # Trabalho1Git
 
-Emanuel Costa Pereira
+Emanuel Costa Pereira 
 
 Enunciado BeeCrowd 1131 - Grenais
 
@@ -15,6 +15,10 @@ Pedrinho is a boy who loves family parties, especially Christmas, when he wins g
 
 However, Pedrinho is only 9 years old and knows nothing about programming, but he knows that you, his cousin, mess with "computer stuff" and thus, he asked you to write the program for him. Not only that, but he promised to let you play every weekend and for how long you would like to.
 
+Diego Graudenz | 1759
 
+Santa Claus is playing with his elves to entertain them during the Christmas Eve. The game consists of the elves writing numbers on pieces of paper and place on the cap of Santa Claus. After all finished to put the numbers, Santa draws a number and that number is how many "Ho" he should say.
+
+Your job is to help Santa Claus by making a problem that shows all the "Ho" that he should speak given the number drawn.
 
 
