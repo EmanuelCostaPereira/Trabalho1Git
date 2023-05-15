@@ -25,3 +25,5 @@ Your job is to help Santa Claus by making a problem that shows all the "Ho" that
 Criei uma pasta na area de trabalho com o nome 'TrabalhoGit' abri no terminal e o botei o código 'git clone https://github.com/EmanuelCostaPereira/Trabalho1Git'
 Logo após gerei o arquivo maven no site 'https://start.spring.io/' 
 Depois criei a branch no repositorio abri na IDE escrevi o codigo e dei commit no trabalho.
+Após meus colegas derem commit no código deles eu dei um git pull para ter a versão mais recente o repositorio e gravei o video do trabalho.
+
